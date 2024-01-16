@@ -1,0 +1,23 @@
+h2{
+   background-color:rgb(10, 76, 0) ;
+   color: white ;
+}
+
+p{
+    background-color: black;
+    color: white;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: brown;
+    background-color: rgb(238, 181, 140);
+}
+img{
+    width: 50%;
+    background-color: rgb(136, 0, 36);
+}
